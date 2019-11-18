@@ -1507,6 +1507,8 @@ input, select, textarea {
 			display: block;
 			width: 100%;
 			margin: 0 0 3.5em 0;
+			height: 13.5em;
+			overflow: hidden;
 		}
 
 		.image.left {
