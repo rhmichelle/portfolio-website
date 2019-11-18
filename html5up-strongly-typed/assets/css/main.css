@@ -2123,9 +2123,10 @@ input, select, textarea {
 	}
 
 		#banner p {
+			font-family: 'Rock Salt', cursive;
 			font-weight: 700;
-			font-size: 2em;
-			line-height: 1.5em;
+			font-size: 1.5em;
+			line-height: 2em;
 			letter-spacing: 4px;
 			text-align: center;
 			margin: 0;
